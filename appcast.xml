@@ -3,6 +3,15 @@
     <channel>
         <title>Memento</title>
         <item>
+            <title>0.7.14</title>
+            <pubDate>Sun, 25 Oct 2026 22:41:03 +0800</pubDate>
+            <sparkle:version>54</sparkle:version>
+            <sparkle:shortVersionString>0.7.14</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.14.dmg" length="33869098" type="application/octet-stream" sparkle:edSignature="jX8kLNrIj8shtxxK+zI6sYXr0ny0a8Hy0/PWJP6Q5UqC0dkf6eFocHDK2hoeEOBAxDZ9LSJvzjmOr6K5KLweDw=="/>
+        </item>
+        <item>
             <title>0.7.13</title>
             <pubDate>Sun, 25 Oct 2026 10:56:09 +0700</pubDate>
             <sparkle:version>53</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.12.dmg" length="34689394" type="application/octet-stream" sparkle:edSignature="sCKPqwDsF8DYz6KiLuK9KzmxG6afO/u8qE3XOnXiwpsAOs1T/X5JkYuwZLjxyGC49luh8K+ZxwPktMyhHn3BDw=="/>
-        </item>
-        <item>
-            <title>0.7.11</title>
-            <pubDate>Fri, 23 Oct 2026 18:46:52 +0700</pubDate>
-            <sparkle:version>51</sparkle:version>
-            <sparkle:shortVersionString>0.7.11</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.11.dmg" length="33469196" type="application/octet-stream" sparkle:edSignature="Adw25tR2HjTYgMaOGsz5XBnEE8wlaiy2zungfD0K7wnwt2lHzHCXUfXgH3z3WO/iP12uso6RsWAPr6VN6eNUAw=="/>
         </item>
         <item>
             <title>0.5.0</title>
