@@ -1,16 +1,20 @@
 # Memen
 
-[Memen](https://memen.app) の配布物置き場です。
+English | [日本語](ja/README.md)
 
-- **iPhone版**: [App Store](https://apps.apple.com/jp/app/id6820173890)
-- **Mac版**(メニューバー常駐アプリ): このリポジトリの [Releases](https://github.com/kkaiki/memen-releases/releases/latest)
+Downloads for [Memen](https://memen.app).
 
-ここに置くのはMac版の配布用 `.dmg` と、自動アップデートが読む `appcast.xml`(EdDSA署名付き)だけです。
+- **iPhone**: [App Store](https://apps.apple.com/app/id6820173890)
+- **Mac** (menu bar app): [Releases](https://github.com/kkaiki/memen-releases/releases/latest) in this repository
 
-## Mac版をはじめて使う方へ
+This repository only holds the Mac `.dmg` files and `appcast.xml` (EdDSA-signed), which the app reads for automatic updates.
 
-1. [Releases](https://github.com/kkaiki/memen-releases/releases/latest) から最新の `Memen-x.y.z.dmg` をダウンロード
-2. 開いて `Memen.app` を「アプリケーション」フォルダへドラッグ
-3. 「アプリケーション」から起動
+## Installing the Mac app
 
-2回目以降は、アプリの「アップデートを確認…」か自動チェックで更新されます。
+1. Download the latest `Memen-x.y.z.dmg` from [Releases](https://github.com/kkaiki/memen-releases/releases/latest)
+2. Open it and drag `Memen.app` into the Applications folder
+3. Open Memen from the Applications folder
+
+After that, the app updates itself through “Check for Updates…” or its automatic check.
+
+Requires macOS 14 or later on an Apple silicon Mac (M1 or later).
