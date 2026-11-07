@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.7.34</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.34.dmg" length="36835166" type="application/octet-stream" sparkle:edSignature="rgBzHyORQBj+YqWnRVBynYIWmUr3DGqCwxTIJgAz/n03cpEb2tDu7SzMjMGNcHyVtCdND0LYAhMkIGoCE34ACQ=="/>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.34.dmg" length="36835147" type="application/octet-stream" sparkle:edSignature="pB/B/XIXkKDw24SHQFD8MtddnvzFsjXsmwK73TIfHThD+O7F/g8P1gMxiySHQnZtnsQtdk2qnLCAmwIaffrZAw=="/>
         </item>
         <item>
             <title>0.7.32</title>
