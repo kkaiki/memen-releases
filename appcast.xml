@@ -3,6 +3,15 @@
     <channel>
         <title>Memento</title>
         <item>
+            <title>0.7.58</title>
+            <pubDate>Fri, 27 Nov 2026 16:36:36 +0900</pubDate>
+            <sparkle:version>98</sparkle:version>
+            <sparkle:shortVersionString>0.7.58</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.58.dmg" length="38008851" type="application/octet-stream" sparkle:edSignature="QsryOz1qJGvHe+ZVpCyz00KNZm71fVAquhS67LbpzqVVZ1+JzvK46fe+tZYoqPrvI8L4eckKbMeeJ5qhc+9IBg=="/>
+        </item>
+        <item>
             <title>0.7.57</title>
             <pubDate>Fri, 27 Nov 2026 16:30:18 +0900</pubDate>
             <sparkle:version>97</sparkle:version>
@@ -19,15 +28,6 @@
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.55.dmg" length="37860154" type="application/octet-stream" sparkle:edSignature="BiavGMJRtcvWABY5mWExodifh3VsT7P/47zJi+ve+e8RBP9SVgotc6bUuda8eIr54J8M5csyEq+es2DJ0Hh6Dw=="/>
-        </item>
-        <item>
-            <title>0.7.54</title>
-            <pubDate>Fri, 27 Nov 2026 14:36:14 +0900</pubDate>
-            <sparkle:version>94</sparkle:version>
-            <sparkle:shortVersionString>0.7.54</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kkaiki/memen-releases/releases/download/downloads/Memen-0.7.54.dmg" length="37906771" type="application/octet-stream" sparkle:edSignature="OmZNY6Ven2Tn+njf2pkM5R7U+O/unfRMV7RCyD+VmY+UzsnS1If2nCUeCpG4pMa2CVQP63NrUERTArUsQa5sBg=="/>
         </item>
         <item>
             <title>0.5.0</title>
